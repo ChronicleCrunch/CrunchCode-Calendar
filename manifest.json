@@ -1,0 +1,25 @@
+{
+  "name": "CrunchCodeCalendar",
+  "short_name": "CrunchCode",
+  "description": "Creator Content Planner with Idea Bank, per-channel HUD, and Mon-Sun calendar.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#09090b",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
